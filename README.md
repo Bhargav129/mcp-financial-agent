@@ -1,6 +1,6 @@
 # 💼 MCP Financial Agent
 
-An intelligent financial query agent powered by [LangGraph](https://www.langchain.com/langgraph), [Gemini LLM].  
+An intelligent financial query agent powered by [LangChain](https://www.langchain.com/langgraph), [Gemini LLM].  
 This agent converts natural language queries into SQL, verifies stock symbols, fetches financial insights from a PostgreSQL database, and can parse business PDFs such as DRHPs for investment signals.
 
 ---
